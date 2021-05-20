@@ -1,0 +1,17 @@
+.alert_link_custom {
+	color: #bb1f06 !important;
+}
+.nav_c {
+	width: 13%;
+}
+.card_img_c {
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.card_body_c {
+    margin-left: 5px;
+}
+.c_pre, .c_next {
+    top: 80%;
+    width: 10%;
+}
